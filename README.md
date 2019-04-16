@@ -50,7 +50,7 @@
 
 - Snake case + variable declaration & initialization:
   ```
-    iex> hello_world = "hello"
+    iex> hello_world = "Hello"
     iex> hello_world
     "Hello"
   ```
