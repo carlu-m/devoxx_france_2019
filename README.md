@@ -79,6 +79,8 @@
   
 - Unlike Erlang, can reuse variable names, but they will use a new memory address
 
+- Only recursive, beware of the `for` keyword (which is a "comprehension")
+
 ### Tooling
 
 - Package manager of the Erlang world: Hex
